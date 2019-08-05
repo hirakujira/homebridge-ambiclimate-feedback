@@ -1,0 +1,32 @@
+{
+  "name": "homebridge-ambiclimate-feedback",
+  "version": "0.0.1",
+  "description": "Ambi Climate comfort mode feedback for Homebridge",
+  "author": {
+    "name": "Hiraku",
+    "email": "dev@hiraku.tw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirakujira/homebridge-ambiclimate-feedback.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin",
+    "ambi+climate",
+    "thermostat",
+    "air+conditioner"
+  ],
+  "engines": {
+    "homebridge": ">=0.4.0"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "node-ambiclimate": "2.x"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/hirakujira/homebridge-ambiclimate-feedback#readme",
+  "bugs": {
+    "url": "https://github.com/hirakujira/homebridge-ambiclimate-feedback/issues"
+  }
+}
